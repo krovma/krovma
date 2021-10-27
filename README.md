@@ -1,6 +1,7 @@
 ### Hello 👋
 📫 How to reach me: krovma7️⃣2️⃣6️⃣📯gmail⏺COM
-ZH/EN/JP OK
+
+Available in ZH/EN/JP
 <!--
 **krovma/krovma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
